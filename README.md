@@ -1,3 +1,3 @@
 # Scanify
 
-A new Flutter project to Scan and Generate the QR Code.
+A Cross-platform mobile application to Scan and Generate the QR Code.
